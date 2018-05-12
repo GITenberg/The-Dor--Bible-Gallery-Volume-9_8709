@@ -1,5 +1,5 @@
 _repo: The-Dor--Bible-Gallery-Volume-9_8709
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: The Doré Gallery of Bible Illustrations, Volume 9
 contributor:
   illustrator:
@@ -14,7 +14,12 @@ contributor:
     gutenberg_agent_id: '1896'
     url: http://www.gutenberg.org/2009/agents/1896
     wikipedia: http://en.wikipedia.org/wiki/Gustave_Doré
+covers:
+- cover_type: archival
+  image_path: 8709-h/images/cover3.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8709#The-Dor--Bible-Gallery-Volume-9
 gutenberg_issued: '2004-07-28'
 gutenberg_type: Text
 identifiers:
